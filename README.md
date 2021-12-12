@@ -16,7 +16,7 @@ An open source interface for Zero Exchange -- a fork of uniswap providing cross 
 
 ## Development
 
-### Install Dependencies
+### Install Dependenciess
 
 ```bash
 yarn
